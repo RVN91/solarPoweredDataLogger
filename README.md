@@ -6,7 +6,7 @@ This repository contains the arduino code for a sensor network system, which is 
 
 ## Poster
 
-[Poster](Low-cost_remotely_sensed_environmental_monitoring_stations_Rasmus_Nielsen.pdf)
+[Poster for the International Conference on Urban Drainage (ICUD) 2017](Low-cost_remotely_sensed_environmental_monitoring_stations_Rasmus_Nielsen.pdf)
 
 ## Hardware setup
 
