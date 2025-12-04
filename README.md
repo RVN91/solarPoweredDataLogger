@@ -4,6 +4,10 @@
 
 This repository contains the arduino code for a sensor network system, which is developed to monitor stream water level in urban environments. Water level data is logged every 10 minutes and transmitted to a FTP server once a day.
 
+## Poster
+
+
+
 ## Hardware setup
 
 ![overview_voltaic_photo](https://cloud.githubusercontent.com/assets/26552259/25136792/3e471066-2456-11e7-9a8d-6d1f0ba1bb53.png)
